@@ -88,7 +88,7 @@
   "optionalDependencies": {
     "moment": "^2.29.4"
   },
-  "files": ["src/*"],
+  "files": ["*"],
   "jest": {
     "preset": "react-native",
     "setupFiles": [
